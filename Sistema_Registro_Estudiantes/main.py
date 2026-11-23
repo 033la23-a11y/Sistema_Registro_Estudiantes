@@ -1,4 +1,4 @@
-sssimport tkinter as tk
+import tkinter as tk
 from interfaz import InterfazEstudiantes
 
 def main():
