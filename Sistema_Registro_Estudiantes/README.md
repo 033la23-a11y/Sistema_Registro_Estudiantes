@@ -35,3 +35,11 @@ Estas pruebas no requieren abrir la ventana.
 
 ## Evidencias y entrega
 Consultar `docs/PRUEBAS_Y_EVIDENCIAS.md`. Las capturas de pantalla reales de la interfaz deben tomarse al ejecutar el sistema en la computadora. Los nombres y commits deben corresponder a la participación real de cada integrante.
+
+
+## Tabla de trazabilidad
+| Elemento del diseño | Archivo o clase | Estado | Justificación |
+|---|---|---|---|
+| Interfaz gráfica | interfaz.py | Implementado | Permite interactuar con el sistema. |
+| Base de datos | base_datos.py | Implementado | Almacena la información de los estudiantes. |
+| Programa principal | main.py | Implementado | Inicia la aplicación. |
