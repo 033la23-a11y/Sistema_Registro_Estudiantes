@@ -1,0 +1,5 @@
+Coloca aquí las 3 capturas REALES al ejecutar el programa:
+prueba_exitosa_1.png
+prueba_exitosa_2.png
+prueba_error.png
+No se incluyen capturas inventadas.
