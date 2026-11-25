@@ -1,7 +1,7 @@
 # PLAN DE IMPLEMENTACIÓN
 **Proyecto:** Sistema de Registro de Estudiantes  
-**Asignatura:** Implementación de Software  
-**Equipo:** 3 integrantes (agregar nombres antes de entregar)
+**Asignatura:** Ingieneria en Software  II
+**Equipo:** Yesi Dabeth Ramos Pereyda, Luis Angel Montiel Gomez, Brian Roberto Lara Cordoba
 
 ## Estrategia de construcción: bottom-up
 Primero se implementan las clases base `Persona` y `Estudiante`, que definen y validan los datos.  
