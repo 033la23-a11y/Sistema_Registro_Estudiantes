@@ -3,7 +3,7 @@
 **Asignatura:** Implementación de Software  
 **Equipo:** 3 integrantes (agregar nombres antes de entregar)
 
-## Estrategia de construcción: bottom-up
+## Estrategia de construcción: 
 Primero se implementan las clases base `Persona` y `Estudiante`, que definen y validan los datos.  
 Después se construye `GestorEstudiantes`, apoyado por `BaseDatos`, para administrar la información en SQLite.  
 Finalmente se integra `InterfazEstudiantes` con Tkinter y se realizan pruebas del sistema completo.
