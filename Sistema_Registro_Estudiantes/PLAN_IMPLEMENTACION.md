@@ -11,9 +11,9 @@ Finalmente se integra `InterfazEstudiantes` con Tkinter y se realizan pruebas de
 ## División de módulos
 | Integrante | Módulos | Responsabilidad |
 |---|---|---|
-| Persona 1: [Nombre] | `persona.py`, `estudiante.py` | Clases, herencia, atributos, validaciones y diseño UML |
-| Persona 2: [Nombre] | `base_datos.py`, `gestor_estudiantes.py` | Base de datos, registro, búsqueda, consulta, eliminación |
-| Persona 3: [Nombre] | `interfaz.py`, `main.py` | Interfaz, integración, mensajes de error y pruebas |
+| Persona 1: [luis angel | `persona.py`, `estudiante.py` | Clases, herencia, atributos, validaciones y diseño UML |
+| Persona 2: [brian roberto | `base_datos.py`, `gestor_estudiantes.py` | Base de datos, registro, búsqueda, consulta, eliminación |
+| Persona 3: [yesi dabeth  | `interfaz.py`, `main.py` | Interfaz, integración, mensajes de error y pruebas |
 
 ## Fases de implementación
 1. Definición del caso de uso y diagrama de clases.
